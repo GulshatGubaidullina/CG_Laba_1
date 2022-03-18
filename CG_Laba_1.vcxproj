@@ -141,6 +141,13 @@
   <ItemGroup>
     <ClCompile Include="CG_Laba_1.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="math_3d.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CG_Laba_1.rc" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
