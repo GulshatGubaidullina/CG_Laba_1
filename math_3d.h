@@ -16,3 +16,6 @@ struct Vector3f
         z = _z;
     }
 };
+struct Matrix4f {
+    float m[4][4];
+};
